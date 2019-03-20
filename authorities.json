@@ -1,16 +1,79 @@
 [
   {
-    "addr":"0x123",
-    "title":"Company",
-    "description":"Description",
-    "homepage":"",
+    "addr":"0x880a74d68b09418136c4442d1ea0f5cc72e5325a",
+    "title":"Metadium Technology, Inc.",
+    "description":"Metadium is an ecosystem built on a public identity blockchain designed to create a decentralized identity ecosystem with the real world introduction of Self-Sovereign Identity; the concept that individuals are owners of all aspects of their own identity in the offline and online world. Our vision is to create a free world through self-sovereign identity.",
+    "homepage":"https://metadium.com/",
     "logo":"",
     "sns":{
-      "twitter":"",
-      "medium":"",
-      "facebook":"",
-      "instagram":"",
-      "telegram":""
+      "telegram":"https://t.me/MetadiumOfficial",
+      "twitter":"https://twitter.com/metadium",
+      "medium":"https://medium.com/metadium",
+      "github":"https://github.com/METADIUM"
     }
+  },
+  {
+    "addr":"0xbdf9acd85b579ea271f91e292ec6e67ad78652f2",
+    "title":"Metadium Placeholder",
+    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
+    "homepage":"",
+    "logo":"",
+    "sns":"",
+  },
+  {
+    "addr":"0xd8f5272ef21a50c5adb0fcef31eb9e91ac4eb2f5",
+    "title":"Metadium Placeholder",
+    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
+    "homepage":"",
+    "logo":"",
+    "sns":"",
+  },
+  {
+    "addr":"0xe7080384c22aa9b232993e2011b8c16585570524",
+    "title":"Metadium Placeholder",
+    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
+    "homepage":"",
+    "logo":"",
+    "sns":"",
+  },
+  {
+    "addr":"0xa4a3a5b308d2319af64def1568cc80a82f40ea86",
+    "title":"Metadium Placeholder",
+    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
+    "homepage":"",
+    "logo":"",
+    "sns":"",
+  },
+  {
+    "addr":"0x6ce8328a6460d6fe4c17fdbbf6faa88120dd65b8",
+    "title":"Metadium Placeholder",
+    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
+    "homepage":"",
+    "logo":"",
+    "sns":"",
+  },
+  {
+    "addr":"0xfb0a7d2536b9e42b627315c5bb938f1a6524f4e3",
+    "title":"Metadium Placeholder",
+    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
+    "homepage":"",
+    "logo":"",
+    "sns":"",
+  },
+  {
+    "addr":"0x2dc152f7c9cacdffbfefe5774af1fdf14df0c6f6",
+    "title":"Metadium Placeholder",
+    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
+    "homepage":"",
+    "logo":"",
+    "sns":"",
+  },
+  {
+    "addr":"0xa996eeffe2d9d3cffdce5b7fc51c357da7abea6d",
+    "title":"Metadium Placeholder",
+    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
+    "homepage":"",
+    "logo":"",
+    "sns":"",
   }
 ]
