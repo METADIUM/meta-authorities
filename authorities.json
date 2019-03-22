@@ -4,7 +4,7 @@
     "title":"Metadium Technology, Inc.",
     "description":"Metadium is an ecosystem built on a public identity blockchain designed to create a decentralized identity ecosystem with the real world introduction of Self-Sovereign Identity; the concept that individuals are owners of all aspects of their own identity in the offline and online world. Our vision is to create a free world through self-sovereign identity.",
     "homepage":"https://metadium.com/",
-    "logo":"https://github.com/METADIUM/static/blob/master/CI/META_Logo_black.png",
+    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/META_Logo_black.png",
     "sns":{
       "telegram":"https://t.me/MetadiumOfficial",
       "twitter":"https://twitter.com/metadium",
@@ -17,7 +17,7 @@
     "title":"Metadium Placeholder",
     "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
     "homepage":"",
-    "logo":"https://github.com/METADIUM/static/blob/master/CI/logo_color_scheme-17.png",
+    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-17.png",
     "sns":""
   },
   {
@@ -25,7 +25,7 @@
     "title":"Metadium Placeholder",
     "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
     "homepage":"",
-    "logo":"https://github.com/METADIUM/static/blob/master/CI/logo_color_scheme-18.png",
+    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-18.png",
     "sns":""
   },
   {
@@ -33,7 +33,7 @@
     "title":"Metadium Placeholder",
     "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
     "homepage":"",
-    "logo":"https://github.com/METADIUM/static/blob/master/CI/logo_color_scheme-19.png",
+    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-19.png",
     "sns":""
   },
   {
@@ -41,7 +41,7 @@
     "title":"Metadium Placeholder",
     "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
     "homepage":"",
-    "logo":"https://github.com/METADIUM/static/blob/master/CI/logo_color_scheme-22.png",
+    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-22.png",
     "sns":""
   },
   {
@@ -49,7 +49,7 @@
     "title":"Metadium Placeholder",
     "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
     "homepage":"",
-    "logo":"https://github.com/METADIUM/static/blob/master/CI/logo_color_scheme-23.png",
+    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-23.png",
     "sns":""
   },
   {
@@ -57,7 +57,7 @@
     "title":"Metadium Placeholder",
     "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
     "homepage":"",
-    "logo":"https://github.com/METADIUM/static/blob/master/CI/logo_color_scheme-24.png",
+    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-24.png",
     "sns":""
   },
   {
@@ -65,7 +65,7 @@
     "title":"Metadium Placeholder",
     "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
     "homepage":"",
-    "logo":"https://github.com/METADIUM/static/blob/master/CI/logo_color_scheme-25.png",
+    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-25.png",
     "sns":""
   },
   {
@@ -73,7 +73,7 @@
     "title":"Metadium Placeholder",
     "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
     "homepage":"",
-    "logo":"https://github.com/METADIUM/static/blob/master/CI/logo_color_scheme-26.png",
+    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-26.png",
     "sns":""
   }
 ]
