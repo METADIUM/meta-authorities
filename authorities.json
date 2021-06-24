@@ -21,59 +21,11 @@
     "sns":""
   },
   {
-    "addr":"0xd8f5272ef21a50c5adb0fcef31eb9e91ac4eb2f5",
+    "addr":"0x378360d4f25E6377f3da53F8cF09e9a258118528",
     "title":"Metadium Placeholder",
     "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
     "homepage":"",
     "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-18.png",
-    "sns":""
-  },
-  {
-    "addr":"0xe7080384c22aa9b232993e2011b8c16585570524",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-19.png",
-    "sns":""
-  },
-  {
-    "addr":"0xa4a3a5b308d2319af64def1568cc80a82f40ea86",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-22.png",
-    "sns":""
-  },
-  {
-    "addr":"0x6ce8328a6460d6fe4c17fdbbf6faa88120dd65b8",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-23.png",
-    "sns":""
-  },
-  {
-    "addr":"0xfb0a7d2536b9e42b627315c5bb938f1a6524f4e3",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-24.png",
-    "sns":""
-  },
-  {
-    "addr":"0x2dc152f7c9cacdffbfefe5774af1fdf14df0c6f6",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-25.png",
-    "sns":""
-  },
-  {
-    "addr":"0xa996eeffe2d9d3cffdce5b7fc51c357da7abea6d",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-26.png",
     "sns":""
   }
 ]
