@@ -17,7 +17,7 @@
     "title":"Coinplug Inc",
     "description":"Coinplug is a leading South Korean blockchain development company. Since its founding in 2013, Coinplug has been providing next generation blockchain-based services and solutions to multiple industries, bringing innovation to people’s daily life. Coinplug is leading Korea’s blockchain industry with the biggest amount of blockchain patents registered in the nation. Coinplug’s broad patent portfolio includes Decentralized Identifier (DID), certification, payment systems, finance, assets, content management and distribution, forgery prevention, and more.",
     "homepage":"https://coinplug.com/",
-    "logo":"http://10.210.10.164:3005/img/bp/coinplug.png",
+    "logo":"https://governance.metadium.com/img/bp/coinplug.png",
     "sns":{
       "twitter":"https://twitter.com/coinplug",
       "facebook":"https://www.facebook.com/coinplug",
@@ -30,7 +30,7 @@
     "title":"Ontology",
     "description": "Ontology is a project that provides trust, privacy, and security to Web3 through a distributed identity (DID) and data solution. Ontology builds an infrastructure that provides trusted access to the Web3, enabling individuals and businesses to have the confidence that users and their privacy come first with compliant digital identity solutions. In the future, Metadium and Ontology plan to collaborate with global DID councils such as W3C and DIF, jointly develop systems, develop DID framework that enables VCs interchangeable, and design DID standards for Korean/Chinese government projects through Mykeepin Alliance.",
     "homepage":"https://ont.io/",
-    "logo":"http://10.210.10.164:3005/img/bp/ontology.png",
+    "logo":"https://governance.metadium.com/img/bp/ontology.png",
     "sns":{
       "twitter":"https://twitter.com/OntologyNetwork",
       "facebook":"https://www.facebook.com/ONTnetwork/",
@@ -44,7 +44,7 @@
     "title":"MaeKyung Media Group",
     "description":"MaeKyung Media Group is a comprehensive media group that owns the leading economic newspaper in Korea, MBN, the No. 1 general channel, Maeil Economic TV, an economic channel, Maekyung.com, the No.1 knowledge economy portal, and Maekyung Economy, the largest economic weekly newspaper. It aims to become the world's best media that delivers diverse and specialized economic information to global audiences quickly and accurately through newspapers, broadcasting, and the Internet. Through the partnership, MK will provide reliable information as a media company to new blockchain-based services such as Thepol and Metapie, provide readers with opportunities to experience, and cooperate in discovering news services using blockchain technology. Based on this, it is also participating in the node operation of Metadium to build a strategic cooperation system beyond business partners.",
     "homepage":"https://www.mk.co.kr/",
-    "logo":"http://10.210.10.164:3005/img/bp/maekyung.png",
+    "logo":"https://governance.metadium.com/img/bp/maekyung.png",
     "sns":{
       "twitter":"https://twitter.com/maekyungsns",
       "facebook":"https://www.facebook.com/maekyungsns/",
@@ -56,7 +56,7 @@
     "title":"PlayDapp",
     "description":"PlayDapp builds a peer-to-peer (C2C) marketplace based on Ethereum and Polygon networks and provides interoperability between games and a diverse game portfolio that gamers can enjoy with Non-Fungible Tokens (NFTs). PlayDapp focuses on services such as Metaverse and Play-to-Earn so that game developers and distributors, as well as gamers, can engage in digital economy activities through game contents incorporating blockchain technology. It also aims to become the world's best blockchain game service platform. Through a partnership with Metadium, it is planning to provide customized blockchain services by utilizing the user pools owned by both companies. In addition, by actively participating in the operation of the Metadium node, the strategic cooperation system will be strengthened.",
     "homepage":"https://playdapp.io/",
-    "logo":"http://10.210.10.164:3005/img/bp/playdapp.png",
+    "logo":"https://governance.metadium.com/img/bp/playdapp.png",
     "sns":{
       "twitter":"https://twitter.com/playdapp_io",
       "facebook":"https://www.facebook.com/playdapp.io",
@@ -70,7 +70,7 @@
     "title":"Bifrost",
     "description":"Bifrost is a middleware solution that provides an ecosystem for the simultaneous use of multiple blockchain protocols. BiFi is the first app to showcase the potential of Bifrost. It started the world's first native BTC lending service, and is currently providing services by linking Bitcoin, Ethereum, Binance Chain and Avalanche networks. Bifrost expects to create synergy and expand the ecosystem through Metadium's node operation.",
     "homepage":"https://thebifrost.io/",
-    "logo":"http://10.210.10.164:3005/img/bp/bifrost.png",
+    "logo":"https://governance.metadium.com/img/bp/bifrost.png",
     "sns":{
       "twitter":"https://twitter.com/bifrostio",
       "facebook":"https://www.facebook.com/theBifrost.io",
@@ -84,14 +84,14 @@
     "title":"Blockwater Technologies Co. Ltd",
     "description":"Blockwater owns Blockwater Management, a Korean crypto hedge fund that invests in blockchain and cryptocurrency, and Blockwater Technologies, a digital asset quant trading company. It has been in charge of investment lead and token sale advisory for more than 30 blockchain projects such as EOS, Fantom, Bifrost, and PlayDapp. It has been working with the largest digital asset trading team in Korea, operating UUPFI, a digital asset deposit service worth about KRW 1 trillion based on accumulated deposits. Blockwater is continuing active cooperation by providing a Metadium token-based deposit service through UUPFI and planning a new DeFi service.",
     "homepage":"https://blockwater.com/",
-    "logo":"http://10.210.10.164:3005/img/bp/blockwater.png",
+    "logo":"https://governance.metadium.com/img/bp/blockwater.png",
     "sns":""
   },
   {
     "addr":"0x2dc152f7c9cacdffbfefe5774af1fdf14df0c6f6",
     "title":"FBG Capital",
     "description":"Founded in 2017, FBG Capital is an investment company dedicated to blockchain technology, and is a representative digital asset finance group that provides wealth management solutions using industry-leading expertise in research, product design, transaction execution, and risk management. FBG Capital will contribute to the establishment of Metadium's global partnership ecosystem.",
-    "logo":"http://10.210.10.164:3005/img/bp/fbg.png",
+    "logo":"https://governance.metadium.com/img/bp/fbg.png",
     "sns":""
   },
   {
@@ -99,7 +99,7 @@
     "title":"RockX",
     "description":"RockX is a leader in blockchain staking, leading the public blockchain. With a strong technical background and community driven operation, RockX provides secure validators to offer staking rewards for their cryptocurrency holders. RockX plans to build a Metadium staking pool in the future.",
     "homepage":"https://www.rockx.com/",
-    "logo":"http://10.210.10.164:3005/img/bp/rockx.png",
+    "logo":"https://governance.metadium.com/img/bp/rockx.png",
     "sns":{
       "twitter":"https://twitter.com/rockx_official",
       "medium":"https://rockx.medium.com/",
