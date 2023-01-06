@@ -1,79 +1,107 @@
 [
   {
-    "addr":"0x880a74d68b09418136c4442d1ea0f5cc72e5325a",
-    "title":"Metadium Technology, Inc.",
-    "description":"Metadium is an ecosystem built on a public identity blockchain designed to create a decentralized identity ecosystem with the real world introduction of Self-Sovereign Identity; the concept that individuals are owners of all aspects of their own identity in the offline and online world. Our vision is to create a free world through self-sovereign identity.",
-    "homepage":"https://metadium.com/",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/META_Logo_black.png",
-    "sns":{
-      "telegram":"https://t.me/MetadiumOfficial",
-      "twitter":"https://twitter.com/metadium",
-      "medium":"https://medium.com/metadium",
-      "github":"https://github.com/METADIUM"
+    "addr": "0x880a74d68b09418136c4442d1ea0f5cc72e5325a",
+    "title": "Metadium Technology, Inc.",
+    "description": "Metadium is an ecosystem built on a public identity blockchain designed to create a decentralized identity ecosystem with the real world introduction of Self-Sovereign Identity; the concept that individuals are owners of all aspects of their own identity in the offline and online world. Our vision is to create a free world through self-sovereign identity.",
+    "homepage": "https://metadium.com/",
+    "logo": "https://governance.metadium.com/img/bp/metadium.png",
+    "sns": {
+      "telegram": "https://t.me/MetadiumOfficial",
+      "twitter": "https://twitter.com/metadium",
+      "medium": "https://medium.com/metadium",
+      "github": "https://github.com/METADIUM"
     }
   },
   {
-    "addr":"0xbdf9acd85b579ea271f91e292ec6e67ad78652f2",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-17.png",
-    "sns":""
+    "addr": "0xbdf9acd85b579ea271f91e292ec6e67ad78652f2",
+    "title": "Coinplug Inc",
+    "description": "Coinplug is a leading South Korean blockchain development company. Since its founding in 2013, Coinplug has been providing next generation blockchain-based services and solutions to multiple industries, bringing innovation to people’s daily life. Coinplug is leading Korea’s blockchain industry with the biggest amount of blockchain patents registered in the nation. Coinplug’s broad patent portfolio includes Decentralized Identifier (DID), certification, payment systems, finance, assets, content management and distribution, forgery prevention, and more.",
+    "homepage": "https://coinplug.com/",
+    "logo": "https://governance.metadium.com/img/bp/coinplug.png",
+    "sns": {
+      "twitter": "https://twitter.com/coinplug",
+      "facebook": "https://www.facebook.com/coinplug",
+      "medium": "https://medium.com/coinplug",
+      "youtube": "https://www.youtube.com/channel/UCmJcrdeyLsReJEBHTV11oeA"
+    }
   },
   {
-    "addr":"0xd8f5272ef21a50c5adb0fcef31eb9e91ac4eb2f5",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-18.png",
-    "sns":""
+    "addr": "0xd8f5272ef21a50c5adb0fcef31eb9e91ac4eb2f5",
+    "title": "Ontology",
+    "description": "Ontology is a project that provides trust, privacy, and security to Web3 through a distributed identity (DID) and data solution. Ontology builds an infrastructure that provides trusted access to the Web3, enabling individuals and businesses to have the confidence that users and their privacy come first with compliant digital identity solutions. In the future, Metadium and Ontology plan to collaborate with global DID councils such as W3C and DIF, jointly develop systems, develop DID framework that enables VCs interchangeable, and design DID standards for Korean/Chinese government projects through Mykeepin Alliance.",
+    "homepage": "https://ont.io/",
+    "logo": "https://governance.metadium.com/img/bp/ontology.png",
+    "sns": {
+      "twitter": "https://twitter.com/OntologyNetwork",
+      "facebook": "https://www.facebook.com/ONTnetwork/",
+      "medium": "https://medium.com/ontologynetwork",
+      "telegram": "https://t.me/OntologyAnnouncements",
+      "youtube": "https://www.youtube.com/channel/UCXzLZJgDglAWRU0b2GOa7pA"
+    }
   },
   {
-    "addr":"0xe7080384c22aa9b232993e2011b8c16585570524",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-19.png",
-    "sns":""
+    "addr": "0xe7080384c22aa9b232993e2011b8c16585570524",
+    "title": "MBlock Inc.",
+    "description": "Mblock is a blockchain, virtual asset, and NFT subsidiary company established by MAEKYUNG MEDIA GROUP. Mblock runs a validator business that supports operation of various blockchain networks such as Klaytn, Medibloc, and Metadium. And provides staking services for virtual assets. Mblock mints and builds various NFT projects, including World Knowledge Forum and Seoul Money Show. In addition, Mblock provides blockchain, virtual assets, NFT related content services such as newsletters.",
+    "homepage": "https://m-block.io/",
+    "logo": "https://governance.metadium.com/img/bp/mblock_logo.png",
+    "sns": ""
   },
   {
-    "addr":"0xa4a3a5b308d2319af64def1568cc80a82f40ea86",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-22.png",
-    "sns":""
+    "addr": "0xa4a3a5b308d2319af64def1568cc80a82f40ea86",
+    "title": "PlayDapp",
+    "description": "PlayDapp builds a peer-to-peer (C2C) marketplace based on Ethereum and Polygon networks and provides interoperability between games and a diverse game portfolio that gamers can enjoy with Non-Fungible Tokens (NFTs). PlayDapp focuses on services such as Metaverse and Play-to-Earn so that game developers and distributors, as well as gamers, can engage in digital economy activities through game contents incorporating blockchain technology. It also aims to become the world's best blockchain game service platform. Through a partnership with Metadium, it is planning to provide customized blockchain services by utilizing the user pools owned by both companies. In addition, by actively participating in the operation of the Metadium node, the strategic cooperation system will be strengthened.",
+    "homepage": "https://playdapp.io/",
+    "logo": "https://governance.metadium.com/img/bp/playdapp.png",
+    "sns": {
+      "twitter": "https://twitter.com/playdapp_io",
+      "facebook": "https://www.facebook.com/playdapp.io",
+      "medium": "https://medium.com/playdappgames",
+      "telegram": "https://t.me/playdapp_announcements",
+      "youtube": "https://www.youtube.com/channel/UCbOoDfyuEf7Xac8YNEap6fQ"
+    }
   },
   {
-    "addr":"0x6ce8328a6460d6fe4c17fdbbf6faa88120dd65b8",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-23.png",
-    "sns":""
+    "addr": "0x6ce8328a6460d6fe4c17fdbbf6faa88120dd65b8",
+    "title": "Bifrost",
+    "description": "Bifrost is a middleware solution that provides an ecosystem for the simultaneous use of multiple blockchain protocols. BiFi is the first app to showcase the potential of Bifrost. It started the world's first native BTC lending service, and is currently providing services by linking Bitcoin, Ethereum, Binance Chain and Avalanche networks. Bifrost expects to create synergy and expand the ecosystem through Metadium's node operation.",
+    "homepage": "https://thebifrost.io/",
+    "logo": "https://governance.metadium.com/img/bp/bifrost.png",
+    "sns": {
+      "twitter": "https://twitter.com/bifrostio",
+      "facebook": "https://www.facebook.com/theBifrost.io",
+      "medium": "https://medium.com/bifrost",
+      "telegram": "https://t.me/Bifrostnotice",
+      "youtube": "https://www.youtube.com/channel/UCYm4MGAGGGFUdykEr3JlHoA"
+    }
   },
   {
-    "addr":"0xfb0a7d2536b9e42b627315c5bb938f1a6524f4e3",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-24.png",
-    "sns":""
+    "addr": "0xfb0a7d2536b9e42b627315c5bb938f1a6524f4e3",
+    "title": "VistaLabs Inc.",
+    "description": "VistaLabs is a crypto investment firm headquartered in Korea with 30+ portfolio projects globally. Established in 2021, the company has been investing in prominent blockchain projects in various sectors such as DeFi, P2E games, Metaverse, etc. The company is rapidly expanding its investments by leveraging the expertise from the crypto industry and traditional financial market.",
+    "homepage": "https://www.vistalabs.info/",
+    "logo": "https://governance.metadium.com/img/bp/Vistalabs_logo.png",
+    "sns": {
+      "telegram": "https://t.me/vistalabs"
+    }
   },
   {
-    "addr":"0x2dc152f7c9cacdffbfefe5774af1fdf14df0c6f6",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-25.png",
-    "sns":""
+    "addr": "0x2dc152f7c9cacdffbfefe5774af1fdf14df0c6f6",
+    "title": "FBG Capital",
+    "description": "Founded in 2017, FBG Capital is an investment company dedicated to blockchain technology, and is a representative digital asset finance group that provides wealth management solutions using industry-leading expertise in research, product design, transaction execution, and risk management. FBG Capital will contribute to the establishment of Metadium's global partnership ecosystem.",
+    "logo": "https://governance.metadium.com/img/bp/fbg.png",
+    "sns": ""
   },
   {
-    "addr":"0xa996eeffe2d9d3cffdce5b7fc51c357da7abea6d",
-    "title":"Metadium Placeholder",
-    "description":"This is Metadium Placeholder account & node to secure network during initial stage. It will be replaced to our partners and new authority participants in the near future.",
-    "homepage":"",
-    "logo":"https://raw.githubusercontent.com/METADIUM/static/master/CI/logo_color_scheme-26.png",
-    "sns":""
+    "addr": "0xa996eeffe2d9d3cffdce5b7fc51c357da7abea6d",
+    "title": "RockX",
+    "description": "RockX is a leader in blockchain staking, leading the public blockchain. With a strong technical background and community driven operation, RockX provides secure validators to offer staking rewards for their cryptocurrency holders. RockX plans to build a Metadium staking pool in the future.",
+    "homepage": "https://www.rockx.com/",
+    "logo": "https://governance.metadium.com/img/bp/rockx.png",
+    "sns": {
+      "twitter": "https://twitter.com/rockx_official",
+      "medium": "https://rockx.medium.com/",
+      "telegram": "https://t.me/rockxenglish"
+    }
   }
 ]
